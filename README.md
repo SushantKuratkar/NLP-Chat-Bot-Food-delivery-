@@ -9,7 +9,7 @@ pip install "fastapi[all]"
  
 OR just run pip install -r backend/requirements.txt to install both in one shot
 
-> * To start fastapi backend server
+> * To start fastapi backend server 
 
 1. Go to backend directory in your command prompt
 2. Run this command: uvicorn main:app --reload
